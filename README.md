@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sfigures. I tried to learn coding and I hated it.
-- 👀 I’m interested in writing software documentation.
+- 👋 Hi, I’m @sfigures. I tried to learn how to code, but I like documentation better.
+- 👀 I’m interested in writing software documentation. Let me help write your README files!
 - 🌱 I’m currently learning technical writing.
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 If you want to reach me, e-mail me at StephanyFigures@gmail.com.
